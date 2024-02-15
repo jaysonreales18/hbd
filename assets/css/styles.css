@@ -359,7 +359,7 @@ body {
     padding: 15px 25px;
     border-bottom: 2px solid #d3d3d3;
     box-shadow: none;
-    color: #111;
+    color: #111111;
   }
 
   input:invalid {
@@ -595,4 +595,20 @@ body {
     .modal .modal-content .content .play {
       margin: 20px;
     }
+
+    .app {
+      overflow: hidden;
+      width: 400px;
+  }
+
+
+  input {
+    width: 300px;
+    border: 0;
+    outline: 0;
+    padding: 15px 25px;
+    border-bottom: 2px solid #d3d3d3;
+    box-shadow: none;
+    color: #111111;
+  }
   }
