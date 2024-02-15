@@ -604,11 +604,9 @@ body {
 
   input {
     width: 300px;
-    border: 0;
-    outline: 0;
-    padding: 15px 25px;
-    border-bottom: 2px solid #d3d3d3;
-    box-shadow: none;
-    color: #111111;
+  }
+
+  .modal-content {
+    width: 85%;
   }
   }
